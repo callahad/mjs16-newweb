@@ -1,10 +1,8 @@
 # The New Mobile Web : ServiceWorker, Push, and App Manifests
 
-Slides and code from [my talk](https://us.pycon.org/2016/schedule/presentation/2152/) at PyCon 2016.
+Slides and code from [my talk](https://joind.in/talk/70986) at [OpenWest 2016](http://openwest.org)
 
-[See the recording on YouTube](https://www.youtube.com/watch?v=dacOIIqKFfs)
-
-[View the slides on GitHub Pages](https://callahad.github.io/pycon-newweb/slides/)!
+[View the slides on GitHub Pages](https://callahad.github.io/ow16-newweb/slides/)!
 
 Learn more about Service Workers at [serviceworke.rs](https://serviceworke.rs/)
 

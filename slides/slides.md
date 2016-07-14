@@ -112,6 +112,8 @@ fetch, serviceworker, push, permissions
 
 es2017 async / await
 
+<!-- }}} -->
+
 ---
 
 <!-- {{{ Reliability -->
@@ -337,7 +339,11 @@ ___
 
 # Questions?
 
-Slides and links at [github.com/callahad/pycon-newweb](https://github.com/callahad/pycon-newweb)
+Slides and links at [github.com/callahad/ow16-newweb](https://github.com/callahad/ow16-newweb)
+
+___
+
+[joind.in/talk/70986](https://joind.in/talk/70986)
 
 <!-- }}} -->
 
