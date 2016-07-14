@@ -31,12 +31,14 @@
 
 .reveal pre code {
   padding: 1em;
+  max-height: initial;
 }
 
 .reveal pre {
   box-shadow: none;
   border: 3px solid black;
   font-size: 0.7em;
+  width: initial;
 }
 
 /* Derived from Jake Archibald's Offline Cookbook:

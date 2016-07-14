@@ -79,7 +79,7 @@ ___
 
 # Before we go on...
 
-## A note on new JavaScript features
+## A few new JavaScript features
 
 ***
 
@@ -130,7 +130,7 @@ es2017 async / await
 
 ***
 
-## Service Workers are like script tags, but for domains instead of pages
+### Service Workers are like script tags, <br /> but for domains instead of pages
 
 ***
 
@@ -329,7 +329,7 @@ navigator.serviceWorker.ready
 
 # The Web Can Be
 
-## Installable, Reliable, and Engaging
+### Installable, Reliable, and Engaging
 
 ___
 
@@ -339,7 +339,7 @@ ___
 
 # Questions?
 
-Slides and links at [github.com/callahad/ow16-newweb](https://github.com/callahad/ow16-newweb)
+Slides & links at [github.com/callahad/ow16-newweb](https://github.com/callahad/ow16-newweb)
 
 ___
 
