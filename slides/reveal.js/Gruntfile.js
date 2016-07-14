@@ -126,14 +126,20 @@ module.exports = function(grunt) {
 				tasks: 'css-core'
 			},
 			html: {
-				files: [ 'index.html']
+				files: [ '*.html']
 			},
 			markdown: {
-				files: [ './*.md' ]
+				files: [ '*.md' ]
 			},
 			options: {
 				livereload: true
 			}
+		},
+
+		retire: {
+			js: ['js/reveal.js', 'lib/js/*.js', 'plugin/**/*.js'],
+			node: ['.'],
+			options: {}
 		}
 
 	});
@@ -148,6 +154,7 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks( 'grunt-contrib-connect' );
 	grunt.loadNpmTasks( 'grunt-autoprefixer' );
 	grunt.loadNpmTasks( 'grunt-zip' );
+	grunt.loadNpmTasks( 'grunt-retire' );
 
 	// Default task
 	grunt.registerTask( 'default', [ 'css', 'js' ] );

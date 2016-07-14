@@ -20,7 +20,7 @@ html, body, .reveal div, .reveal span, .reveal applet, .reveal object, .reveal i
 .reveal article, .reveal aside, .reveal canvas, .reveal details, .reveal embed,
 .reveal figure, .reveal figcaption, .reveal footer, .reveal header, .reveal hgroup,
 .reveal menu, .reveal nav, .reveal output, .reveal ruby, .reveal section, .reveal summary,
-.reveal time, .reveal mark, .reveal audio, video {
+.reveal time, .reveal mark, .reveal audio, .reveal video {
   margin: 0;
   padding: 0;
   border: 0;
@@ -46,12 +46,6 @@ body {
   line-height: 1;
   background-color: #fff;
   color: #000; }
-
-html:-webkit-full-screen-ancestor {
-  background-color: inherit; }
-
-html:-moz-full-screen-ancestor {
-  background-color: inherit; }
 
 /*********************************************
  * VIEW FRAGMENTS
@@ -989,7 +983,8 @@ html:-moz-full-screen-ancestor {
   -webkit-perspective: 700px;
           perspective: 700px; }
   .reveal.overview .slides section {
-    height: 700px;
+    height: 100%;
+    top: 0 !important;
     opacity: 1 !important;
     overflow: hidden;
     visibility: visible !important;
