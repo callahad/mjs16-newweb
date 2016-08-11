@@ -1,8 +1,8 @@
 # The New Mobile Web : ServiceWorker, Push, and App Manifests
 
-Slides and code from [my talk](https://joind.in/talk/70986) at [OpenWest 2016](http://openwest.org)
+Slides and code from my talk at [Midwest JS 2016](http://midwestjs.com)
 
-[View the slides on GitHub Pages](https://callahad.github.io/ow16-newweb/slides/)!
+[View the slides on GitHub Pages](https://callahad.github.io/mjs16-newweb/slides/)!
 
 Learn more about Service Workers at [serviceworke.rs](https://serviceworke.rs/)
 
