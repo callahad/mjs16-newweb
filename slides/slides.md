@@ -108,9 +108,11 @@ function getData() {
 
 ___
 
-fetch, serviceworker, push, permissions
+fetch, serviceworker, push, background sync
 
 es2017 async / await
+
+permission apis?
 
 <!-- }}} -->
 
